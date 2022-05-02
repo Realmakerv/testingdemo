@@ -1,5 +1,5 @@
 
-**若需部署 LESS，请转到 [less](https://github.com/englishuas/testingdemo/tree/ssel) 分支。**
+**若需部署 LESS，请转到 [less](https://github.com/englishuas/testingdemo/tree/sseling) 分支。**
 
 ## 概述
 
